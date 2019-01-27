@@ -1,12 +1,18 @@
 # Wimos
 A Windows and MacOs customizable installer.
--this is currently still a work in progress.
+-this is currently still a work in progress, and cannot be used as of this moment.
 
 # What is it supposed to become/do?
-The idea is that it should be a costumizable installer that will scrape or get the latest version of a certain set of applications that you define. And it should work on Windows (priority 1) and MacOS (priority 2). 
+A costumizable bash script that is easy to read, detects your type of OS (Windows, Mac or Linux) and starts downloading/installing with the correct commands.
 
-First it will be focused on a command line installation. After that it will become a simple GUI which should auto determine or give the option for your operating system and it should scrape the packages you gave in to be installed.
+# How to use it
+Via a bash shell type in:
+```bash
+curl -s 'https://url.that/holds/the/bash/script' | sh
+```
+And it will start downloading and installing the software you want for your system.
 
-# What does Wimos mean or stand for?
-Windows installer & MacOS
--It does not escape me that it is not a creative name, but I used a random name generator and this was the only word that I liked.
+# Influences
+https://macapps.link/
+https://just-install.github.io/
+
