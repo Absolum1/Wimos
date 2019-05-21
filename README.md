@@ -2,7 +2,7 @@
 target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absolum-logo1.svg"></a></p>
 
 
-<h1 align="center">Uplister</h1>
+<h1 align="center">Wimos</h1>
 
 
 <p align="center">A Windows and MacOs customizable installer</p>
